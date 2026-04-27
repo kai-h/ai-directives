@@ -86,3 +86,8 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 ---
 
+# Writing style
+
+Apply the conventions below to all client-facing prose, email drafts, proposals, and any written content I will send. The rules govern punctuation, vocabulary, voice, and sign-off conventions and should override any default Claude phrasing patterns.
+
+@~/.claude/STYLE.md
